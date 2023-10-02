@@ -1,4 +1,5 @@
-#Red Óptima de Visualización de Datos
+# Red Óptima de Visualización de Datos
+
 Descripción
 
 Este proyecto está diseñado para visualizar una red de datos compleja de una base de datos de transacciones financieras, destacando conexiones y patrones clave en la información. Utiliza Python, la biblioteca NetworkX para el análisis de redes y Matplotlib para la visualización.
